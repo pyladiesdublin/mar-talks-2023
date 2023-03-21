@@ -25,6 +25,9 @@ We will run the steps to run a backstage application on local system and create 
 Platform Architect @ IBM hybrid cloud management. Author of "Hybrid Cloud Infrastructure and Operations Explained: Accelerate your application migration and modernisation journey on the cloud with IBM and Red Hat"
 * https://twitter.com/MansuraHabiba
 * Book: https://www.amazon.com/Hybrid-Cloud-Infrastructure-Operations-Explained-dp-1803248319/dp/1803248319/
+* Slides coming soon
+
+---
 
 # Congrats to the ebook winners
 * Wolfgang woof
